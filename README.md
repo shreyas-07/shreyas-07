@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shreyas-07
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning AI 
-- 💞️ I’m looking to collaborate on Deep learninh
+- 🌱 I’m currently learning Deep Learning and RF
+
 
 
 <!---
