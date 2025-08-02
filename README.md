@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyas-07
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep Learning and Reinforcement Learning
+- Graduate Student at SJSU 
 
 
 
