@@ -2,7 +2,7 @@
 - 🚀 Passionate about building **scalable data & AI systems**
 - 🤖 Exploring **LLMs, RAG, and agentic AI** for real-world impact
 - 🎓 Graduate Student in **Data Analytics @ SJSU**
-- 📈 Past: Healthcare Data Analyst | EXL Health, Buddi AI
+- 📈 Past: Healthcare Data Scientist | EXL Health, Buddi AI
 - 🌐 [shreyasdev.com](https://shreyasdev.com) | 💻 Open-source + projects on GitHub
 
 
